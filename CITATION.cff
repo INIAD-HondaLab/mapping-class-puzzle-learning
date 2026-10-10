@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and the archived software release."
+title: "Mapping-Class-Group Learning for Diffeomorphisms: Reproducibility Code"
+type: software
+authors:
+  - family-names: Honda
+    given-names: Hirotada
+version: 1.0.0

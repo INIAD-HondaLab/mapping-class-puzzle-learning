@@ -1,0 +1,6 @@
+seed,selected_from_noisy_validation,AB_clean_test_loss,best_wrong_candidate_by_clean_test,best_wrong_clean_test_loss,clean_test_margin_wrong_minus_AB
+0,B,0.0018406,B,0.0010067,-0.0008339
+1,B,0.0014701,B,0.00091903,-0.00055107
+2,B,0.0016734,B,0.00079316,-0.00088024
+3,B,0.001909,B,0.0010163,-0.0008927
+4,B^2,0.0013015,B,0.00068626,-0.00061524

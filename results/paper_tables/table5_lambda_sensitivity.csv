@@ -1,0 +1,5 @@
+learner,sampling,lambda_AB_to_B,lambda_B_to_id,lower_envelope_path
+PNN,uniform,0.000434148894716,0.00046868519999999995,AB -> B -> id
+PNN,gaussian_mixture,5.690507612e-05,0.00014950093999999999,AB -> B -> id
+PAL,uniform,0.005513751587,0.015244655999999999,AB -> B -> id
+PAL,gaussian_mixture,0.003331483964,0.010108286999999999,AB -> B -> id

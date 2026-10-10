@@ -1,0 +1,5 @@
+learner,sampling,selected_candidate,selected_validation_loss,selected_test_loss
+PNN,uniform,AB,6.705284e-09,7.054215e-09
+PNN,gaussian_mixture,AB,1.908388e-08,2.038022e-08
+PAL,uniform,AB,2.262413e-06,2.249377e-06
+PAL,gaussian_mixture,AB,2.489036e-06,2.695597e-06
